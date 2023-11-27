@@ -5,7 +5,7 @@ This Git repository is created for a collaborative exercise where group members 
 ## Group Members
 - Harinder Kaur (Student number 24135850)
 - Andre Schubert (Student number 24096465)
-- Syeda Anjum (Add Student Number)
+- Syeda Anjum (Student Number 23229422)
 
 ## Task Details
 
